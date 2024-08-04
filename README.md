@@ -7,6 +7,8 @@ with Python Nanodegree project (https://github.com/udacity/aipnd-project). It im
 data augmentation and achieves an accuracy of 90% on the validation set and 87.5% on the testing set. The project also
 includes command-line applications for training and prediction.
 
+![inference example](assets/inference_example.png)
+
 ## Key Features
 
 - Leverages the VGG16 architecture for image classification.
